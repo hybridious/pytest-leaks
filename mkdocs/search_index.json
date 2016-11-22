@@ -1,0 +1,14 @@
+{
+    "docs": [
+        {
+            "location": "/",
+            "text": "Welcome to pytest-leaks\n\n\nA pytest plugin to trace resource leaks.\n\n\nUsage: \npytest -R stab:run\n.",
+            "title": "Home"
+        },
+        {
+            "location": "/#welcome-to-pytest-leaks",
+            "text": "A pytest plugin to trace resource leaks.  Usage:  pytest -R stab:run .",
+            "title": "Welcome to pytest-leaks"
+        }
+    ]
+}
